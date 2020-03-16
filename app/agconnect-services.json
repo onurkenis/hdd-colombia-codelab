@@ -1,0 +1,27 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"890090000023105690",
+		"product_id":"9105385871708544977",
+		"client_id":"316006672499737728",
+		"client_secret":"E6F20BA91B7C00ED2BD513B9DA2360EBDA3ACCA86D10FC2BE3E5B71E5CB4DCBE",
+		"app_id":"101850887",
+		"package_name":"com.dtse.codelabcolombia",
+		"api_key":"CV6QmixZnkWqt+DkFbDyisa9De8FWpyVfWFNLM09jd6D0jsIzifJZ856OVnuYUXjd2trgW+fvDSfmH7McXbC9rXBL7DT"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
